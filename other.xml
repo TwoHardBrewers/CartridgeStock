@@ -48,6 +48,7 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="TURN_REFS_TO_SUPER_PREVIEW_USAGES" value="true" />
     <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
   </component>
